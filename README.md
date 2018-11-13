@@ -3,6 +3,10 @@ Cryptocurrency ticker made with the contents of [Hacker Box #0036](https://hacke
 
 ![LTC](https://github.com/ananseMugen/crypto-ticker/blob/master/gifs/LTC.gif)
 
+![ETH](https://github.com/ananseMugen/crypto-ticker/blob/master/gifs/ETH.gif)
+
+![BTC](https://github.com/ananseMugen/crypto-ticker/blob/master/gifs/BTC.gif)
+
 
 
 **Uses:**
@@ -17,4 +21,4 @@ Cryptocurrency ticker made with the contents of [Hacker Box #0036](https://hacke
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
 
-GIFs and somesuch coming soon!
+
