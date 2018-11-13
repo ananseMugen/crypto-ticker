@@ -29,7 +29,7 @@ uint8_t display_draw_time=0;
 
 PxMATRIX display(64,32,P_LAT, P_OE,P_A,P_B,P_C,P_D);
 
-// Some standard colors
+// Red for negative change, Green for positive change
 uint16_t myRED = display.color565(255, 0, 0);
 uint16_t myGREEN = display.color565(0, 255, 0);
 
@@ -118,7 +118,7 @@ void displayMessage(int msg_end, String message,float change){
     delay(50);  
   }
 }
-//Truncates price to two decimal places, to lazy to round as currency prices
+//Truncates price to two decimal places, too lazy to round as currency prices
 //fluctuate like mad anyway 
 String truncatePrice(String price){
   int decimal = price.indexOf('.');
