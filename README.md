@@ -5,7 +5,7 @@ Cryptocurrency ticker made with the contents of [Hacker Box #0036](https://hacke
 * [Chasing Coins](https://chasing-coins.com/api/) as the api endpoint 
 ... Simple, free, and no api key needed for access.
 * [ArduinoJSON](https://arduinojson.org/) for parsing crypto data
-* [PxMatrix Library](https://github.com/2dom/PxMatrix)
+* [PxMatrix Library](https://github.com/2dom/PxMatrix) for control of the 64x32 LED matrix .
 
 [![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](https://forthebadge.com)
 
