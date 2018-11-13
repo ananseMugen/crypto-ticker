@@ -8,3 +8,7 @@ Cryptocurrency ticker made with contents of [Hacker Box #0036](https://hackerbox
 * [PxMatrix Library](https://github.com/2dom/PxMatrix)
 
 [![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/fo-shizzle.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
