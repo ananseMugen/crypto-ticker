@@ -21,7 +21,7 @@ power supply, available from everyone's favorite [knock-off Lex Luthor](https://
 Text will be red if the hourly price change is negative, and will be green for a positive price change. Will probably make a
 3d printed enclosure for it in the future.
 
-[![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](/gifs/smuggeorge.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
 
