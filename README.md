@@ -15,6 +15,10 @@ Cryptocurrency ticker made with the contents of [Hacker Box #0036](https://hacke
 * [ArduinoJSON](https://arduinojson.org/) for parsing crypto data
 * [PxMatrix Library](https://github.com/2dom/PxMatrix) for control of the 64x32 LED matrix .
 
+Hardware setup is pretty much the same as in the [Instructable](https://www.instructables.com/id/HackerBox-0036-JumboTron/),
+minus the controller. I'm using [this](https://www.amazon.com/gp/product/B07B111B7Y/ref=od_aui_detailpages00?ie=UTF8&psc=1) for the 
+power supply, available from everyone's favorite American [財閥](https://en.wikipedia.org/wiki/Zaibatsu).
+
 [![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/fo-shizzle.svg)](https://forthebadge.com)
