@@ -1,5 +1,5 @@
 # crypto-ticker
-Cryptocurrency ticker made with contents of [Hacker Box #0036](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0036-jumbotron)
+Cryptocurrency ticker made with the contents of [Hacker Box #0036](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0036-jumbotron)
 
 **Uses:**
 * [Chasing Coins](https://chasing-coins.com/api/) as the api endpoint 
