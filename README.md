@@ -1,6 +1,10 @@
 # crypto-ticker
 Cryptocurrency ticker made with the contents of [Hacker Box #0036](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0036-jumbotron)
 
+![LTC](https://github.com/ananseMugen/crypto-ticker/blob/master/gifs/LTC.gif)
+
+
+
 **Uses:**
 * [Chasing Coins]( https://chasing-coins.com) as the api endpoint 
 ... Simple, free, and no api key needed for access.
