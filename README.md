@@ -1,7 +1,7 @@
 # crypto-ticker
 Cryptocurrency ticker made with the contents of [Hacker Box #0036](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0036-jumbotron)
 
-![LTC](https://github.com/ananseMugen/crypto-ticker/blob/master/gifs/LTC.gif)
+![LTC](/gifs/LTC.gif)
 
 ![ETH](https://github.com/ananseMugen/crypto-ticker/blob/master/gifs/ETH.gif)
 
