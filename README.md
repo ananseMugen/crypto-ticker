@@ -3,9 +3,9 @@ Cryptocurrency ticker made with the contents of [Hacker Box #0036](https://hacke
 
 ![LTC](/gifs/LTC.gif)
 
-![ETH](https://github.com/ananseMugen/crypto-ticker/blob/master/gifs/ETH.gif)
+![ETH](/gifs/ETH.gif)
 
-![BTC](https://github.com/ananseMugen/crypto-ticker/blob/master/gifs/BTC.gif)
+![BTC](/gifs/BTC.gif)
 
 
 
